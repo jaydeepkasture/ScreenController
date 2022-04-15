@@ -13,4 +13,5 @@ HOW TO USE THIS METHOD?
 9. And if you want to add some customize animation to the screens just like in the demo then coustomize the ScreenSlideAnimation class accordingly.
 10. There is a boolen variable inside ScreenSlideAnimation class called allowAnimation if there is a need to avoid animation on some classes. 
 Please set it false from inspector.
+
 https://youtube.com/shorts/JQBn3HIYiwY
