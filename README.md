@@ -1,5 +1,5 @@
 # ScreenController
-Screen Controller is an elegent way of dealing with many Screens in Unity3D.
+Screen Controller is an elegant way of dealing with many Screens in Unity3D.
 HOW TO USE THIS METHOD?
 
 1. Copy ScreenController and screen scripts.
