@@ -15,8 +15,8 @@ HOW TO USE THIS METHOD?
 Please set it false from inspector.
 
 Why you should use this method?
-1. Simple and easy implementation.
-2. Can able to goto any screen without worrying about any unableling and disabling gameobject.
+1. Simple and easy to implementation.
+2. Can able to goto any screen without worrying about unable and disable any gameobject.
 3. Easy to scale without breaking exiting code.
 4. Can traverse to previous screens with back function.
 5. Ever screen will get informed when any screen is enable or disable.
