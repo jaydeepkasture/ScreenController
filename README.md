@@ -19,6 +19,7 @@ Why you should use this method?
 2. Can able to goto any screen without worrying about unable and disable any gameobject.
 3. Easy to scale without breaking exiting code.
 4. Can traverse to previous screens with back function.
-5. Ever screen will get informed when any screen is enable or disable.
+5. Ever screen will get informed when any screen is enabled or disabled.
+6. Gives the ability to added custom animations to screens.
 
 https://youtube.com/shorts/JQBn3HIYiwY
